@@ -1,3 +1,5 @@
 print("Vinay")
 print("Kumar")
 print("Sharma")
+print("CSE")
+print("2nd Year")
